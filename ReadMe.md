@@ -21,7 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- GHA
 - Ghana
 - غانا
 - 加纳
