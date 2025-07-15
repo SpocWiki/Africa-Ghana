@@ -40,11 +40,18 @@ markerFolder: ./Ghana~Upper_West/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Ghana/Counties/Ghana~Upper_West|Ghana~Upper_West]] 
-- [[../../../../../../_public/geo/Continent/Africa/Ghana/Counties/Ghana~Upper_West.public|Ghana~Upper_West.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Ghana/Counties/Ghana~Upper_West.internal|Ghana~Upper_West.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Ghana/Counties/Ghana~Upper_West.protect|Ghana~Upper_West.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Ghana/Counties/Ghana~Upper_West.private|Ghana~Upper_West.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Ghana/Counties/Ghana~Upper_West.personal|Ghana~Upper_West.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Ghana/Counties/Ghana~Upper_West.secret|Ghana~Upper_West.secret]] 
+
+### #is_/same_as :: [Ghana~Upper_West](/_Standards/Earth/Continent/Africa/Africa~West/Ghana/Regions~Ghana/Ghana~Upper_West.md) 
+
+### #is_/same_as :: [Ghana~Upper_West.public](/_public/Earth/Continent/Africa/Africa~West/Ghana/Regions~Ghana/Ghana~Upper_West.public.md) 
+
+### #is_/same_as :: [Ghana~Upper_West.internal](/_internal/Earth/Continent/Africa/Africa~West/Ghana/Regions~Ghana/Ghana~Upper_West.internal.md) 
+
+### #is_/same_as :: [Ghana~Upper_West.protect](/_protect/Earth/Continent/Africa/Africa~West/Ghana/Regions~Ghana/Ghana~Upper_West.protect.md) 
+
+### #is_/same_as :: [Ghana~Upper_West.private](/_private/Earth/Continent/Africa/Africa~West/Ghana/Regions~Ghana/Ghana~Upper_West.private.md) 
+
+### #is_/same_as :: [Ghana~Upper_West.personal](/_personal/Earth/Continent/Africa/Africa~West/Ghana/Regions~Ghana/Ghana~Upper_West.personal.md) 
+
+### #is_/same_as :: [Ghana~Upper_West.secret](/_secret/Earth/Continent/Africa/Africa~West/Ghana/Regions~Ghana/Ghana~Upper_West.secret.md)
 

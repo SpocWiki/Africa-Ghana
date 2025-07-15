@@ -1,4 +1,4 @@
-﻿---
+---
 location: [5.55,-0.25] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Ghana/City/Accra|Accra]] 
-- [[../../../../../../_public/geo/Continent/Africa/Ghana/City/Accra.public|Accra.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Ghana/City/Accra.internal|Accra.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Ghana/City/Accra.protect|Accra.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Ghana/City/Accra.private|Accra.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Ghana/City/Accra.personal|Accra.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Ghana/City/Accra.secret|Accra.secret]] 
+
+### #is_/same_as :: [Accra](/_Standards/Earth/Continent/Africa/Africa~West/Ghana/Regions~Ghana/Greater_Accra/City/Accra.md) 
+
+### #is_/same_as :: [Accra.public](/_public/Earth/Continent/Africa/Africa~West/Ghana/Regions~Ghana/Greater_Accra/City/Accra.public.md) 
+
+### #is_/same_as :: [Accra.internal](/_internal/Earth/Continent/Africa/Africa~West/Ghana/Regions~Ghana/Greater_Accra/City/Accra.internal.md) 
+
+### #is_/same_as :: [Accra.protect](/_protect/Earth/Continent/Africa/Africa~West/Ghana/Regions~Ghana/Greater_Accra/City/Accra.protect.md) 
+
+### #is_/same_as :: [Accra.private](/_private/Earth/Continent/Africa/Africa~West/Ghana/Regions~Ghana/Greater_Accra/City/Accra.private.md) 
+
+### #is_/same_as :: [Accra.personal](/_personal/Earth/Continent/Africa/Africa~West/Ghana/Regions~Ghana/Greater_Accra/City/Accra.personal.md) 
+
+### #is_/same_as :: [Accra.secret](/_secret/Earth/Continent/Africa/Africa~West/Ghana/Regions~Ghana/Greater_Accra/City/Accra.secret.md)
+

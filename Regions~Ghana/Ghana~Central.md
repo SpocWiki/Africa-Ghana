@@ -40,11 +40,18 @@ markerFolder: ./Ghana~Central/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Ghana/Counties/Ghana~Central|Ghana~Central]] 
-- [[../../../../../../_public/geo/Continent/Africa/Ghana/Counties/Ghana~Central.public|Ghana~Central.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Ghana/Counties/Ghana~Central.internal|Ghana~Central.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Ghana/Counties/Ghana~Central.protect|Ghana~Central.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Ghana/Counties/Ghana~Central.private|Ghana~Central.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Ghana/Counties/Ghana~Central.personal|Ghana~Central.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Ghana/Counties/Ghana~Central.secret|Ghana~Central.secret]] 
+
+### #is_/same_as :: [Ghana~Central](/_Standards/Earth/Continent/Africa/Africa~West/Ghana/Regions~Ghana/Ghana~Central.md) 
+
+### #is_/same_as :: [Ghana~Central.public](/_public/Earth/Continent/Africa/Africa~West/Ghana/Regions~Ghana/Ghana~Central.public.md) 
+
+### #is_/same_as :: [Ghana~Central.internal](/_internal/Earth/Continent/Africa/Africa~West/Ghana/Regions~Ghana/Ghana~Central.internal.md) 
+
+### #is_/same_as :: [Ghana~Central.protect](/_protect/Earth/Continent/Africa/Africa~West/Ghana/Regions~Ghana/Ghana~Central.protect.md) 
+
+### #is_/same_as :: [Ghana~Central.private](/_private/Earth/Continent/Africa/Africa~West/Ghana/Regions~Ghana/Ghana~Central.private.md) 
+
+### #is_/same_as :: [Ghana~Central.personal](/_personal/Earth/Continent/Africa/Africa~West/Ghana/Regions~Ghana/Ghana~Central.personal.md) 
+
+### #is_/same_as :: [Ghana~Central.secret](/_secret/Earth/Continent/Africa/Africa~West/Ghana/Regions~Ghana/Ghana~Central.secret.md)
 

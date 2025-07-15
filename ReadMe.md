@@ -134,10 +134,4 @@ Capital :: [[Accra]]
 
 
 
-## Confidential Links & Embeds: 
-- [[Ghana|Ghana]] 
-- [[../../../../../_internal/geo/Continent/Africa/Africa~West/Ghana.internal|Ghana.internal]] 
-- [[../../../../../_protect/geo/Continent/Africa/Africa~West/Ghana.protect|Ghana.protect]] 
-- [[../../../../../_private/geo/Continent/Africa/Africa~West/Ghana.private|Ghana.private]] 
-- [[../../../../../_personal/geo/Continent/Africa/Africa~West/Ghana.personal|Ghana.personal]] 
-- [[../../../../../_secret/geo/Continent/Africa/Africa~West/Ghana.secret|Ghana.secret]] 
+

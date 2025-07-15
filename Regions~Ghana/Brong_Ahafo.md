@@ -40,11 +40,18 @@ markerFolder: ./Brong_Ahafo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Ghana/Counties/Brong_Ahafo|Brong_Ahafo]] 
-- [[../../../../../../_public/geo/Continent/Africa/Ghana/Counties/Brong_Ahafo.public|Brong_Ahafo.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Ghana/Counties/Brong_Ahafo.internal|Brong_Ahafo.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Ghana/Counties/Brong_Ahafo.protect|Brong_Ahafo.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Ghana/Counties/Brong_Ahafo.private|Brong_Ahafo.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Ghana/Counties/Brong_Ahafo.personal|Brong_Ahafo.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Ghana/Counties/Brong_Ahafo.secret|Brong_Ahafo.secret]] 
+
+### #is_/same_as :: [Brong_Ahafo](/_Standards/Earth/Continent/Africa/Africa~West/Ghana/Regions~Ghana/Brong_Ahafo.md) 
+
+### #is_/same_as :: [Brong_Ahafo.public](/_public/Earth/Continent/Africa/Africa~West/Ghana/Regions~Ghana/Brong_Ahafo.public.md) 
+
+### #is_/same_as :: [Brong_Ahafo.internal](/_internal/Earth/Continent/Africa/Africa~West/Ghana/Regions~Ghana/Brong_Ahafo.internal.md) 
+
+### #is_/same_as :: [Brong_Ahafo.protect](/_protect/Earth/Continent/Africa/Africa~West/Ghana/Regions~Ghana/Brong_Ahafo.protect.md) 
+
+### #is_/same_as :: [Brong_Ahafo.private](/_private/Earth/Continent/Africa/Africa~West/Ghana/Regions~Ghana/Brong_Ahafo.private.md) 
+
+### #is_/same_as :: [Brong_Ahafo.personal](/_personal/Earth/Continent/Africa/Africa~West/Ghana/Regions~Ghana/Brong_Ahafo.personal.md) 
+
+### #is_/same_as :: [Brong_Ahafo.secret](/_secret/Earth/Continent/Africa/Africa~West/Ghana/Regions~Ghana/Brong_Ahafo.secret.md)
 
