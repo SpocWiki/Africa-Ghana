@@ -1,17 +1,22 @@
 ---
-location: [5.55,-0.25] 
-mapzoom: [7,12] 
-mapmarker: city 
+location:
+  - 5.55
+  - -0.25
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 35930
 isDeleted: false
 confidential: public
-
+has_id_wikidata: Q3761
 ---
+
+# [[Accra]]
+
 [geo-lon::-0.25] 
 [geo-lat::5.55] 
 [name::Accra] 
@@ -21,6 +26,7 @@ Country :: [[Ghana]]
 [Population::] 
 [Unknown::32] 
 
+#is_/same_as :: [[WD~Accra,3761]] 
 
 ```leaflet
 id: Accra
