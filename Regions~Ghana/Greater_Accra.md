@@ -1,30 +1,29 @@
 ---
-location: [ 5.7 , -0 ] 
+location:
+  - 5.7
+  - 0
 type: geo-Region
 title: Greater_Accra
-
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
 isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
-
 tags:
-- geo/Country/Region
+  - geo/Country/Region
 aliases:
-- Greater_Accra
-
+  - Greater_Accra
 Languages:
-- de
-
-cssclasses: geo-Region
+  - de
+cssclasses:
+  - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate: 
+linkTitle:
+keywords:
+layout:
+publishDate:
+expiryDate:
 ---
 
 # Greater_Accra

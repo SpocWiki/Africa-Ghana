@@ -1,37 +1,38 @@
 ---
 location:
-- 5.55
-- -0.25
+  - 5.55
+  - -0.25
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 26903
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
 title: Ghana
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- Ghana
-- غانا
-- 加纳
-- Гана
-- the Republic of Ghana
-- la República de Ghana
+  - Ghana
+  - غانا
+  - 加纳
+  - Гана
+  - the Republic of Ghana
+  - la República de Ghana
 Languages:
-- en-GH
-- ak
-- ee
-- tw
+  - en-GH
+  - ak
+  - ee
+  - tw
 ---
 
 
