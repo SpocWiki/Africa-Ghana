@@ -40,17 +40,17 @@ markerFolder: ./Ashanti/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ashanti](/_Standards/Earth/Continent/Africa/Africa~West/Ghana/Regions~Ghana/Ashanti.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Ghana/Regions~Ghana/Ashanti|Ashanti]] 
 
-### #is_/same_as :: [Ashanti.public](/_public/Earth/Continent/Africa/Africa~West/Ghana/Regions~Ghana/Ashanti.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Ghana/Regions~Ghana/Ashanti.public|Ashanti.public]] 
 
-### #is_/same_as :: [Ashanti.internal](/_internal/Earth/Continent/Africa/Africa~West/Ghana/Regions~Ghana/Ashanti.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Ghana/Regions~Ghana/Ashanti.internal|Ashanti.internal]] 
 
-### #is_/same_as :: [Ashanti.protect](/_protect/Earth/Continent/Africa/Africa~West/Ghana/Regions~Ghana/Ashanti.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Ghana/Regions~Ghana/Ashanti.protect|Ashanti.protect]] 
 
-### #is_/same_as :: [Ashanti.private](/_private/Earth/Continent/Africa/Africa~West/Ghana/Regions~Ghana/Ashanti.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Ghana/Regions~Ghana/Ashanti.private|Ashanti.private]] 
 
-### #is_/same_as :: [Ashanti.personal](/_personal/Earth/Continent/Africa/Africa~West/Ghana/Regions~Ghana/Ashanti.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Ghana/Regions~Ghana/Ashanti.personal|Ashanti.personal]] 
 
-### #is_/same_as :: [Ashanti.secret](/_secret/Earth/Continent/Africa/Africa~West/Ghana/Regions~Ghana/Ashanti.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Ghana/Regions~Ghana/Ashanti.secret|Ashanti.secret]] 
 

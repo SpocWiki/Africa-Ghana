@@ -40,17 +40,17 @@ markerFolder: ./Volta/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Volta](/_Standards/Earth/Continent/Africa/Africa~West/Ghana/Regions~Ghana/Volta.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Ghana/Regions~Ghana/Volta|Volta]] 
 
-### #is_/same_as :: [Volta.public](/_public/Earth/Continent/Africa/Africa~West/Ghana/Regions~Ghana/Volta.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Ghana/Regions~Ghana/Volta.public|Volta.public]] 
 
-### #is_/same_as :: [Volta.internal](/_internal/Earth/Continent/Africa/Africa~West/Ghana/Regions~Ghana/Volta.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Ghana/Regions~Ghana/Volta.internal|Volta.internal]] 
 
-### #is_/same_as :: [Volta.protect](/_protect/Earth/Continent/Africa/Africa~West/Ghana/Regions~Ghana/Volta.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Ghana/Regions~Ghana/Volta.protect|Volta.protect]] 
 
-### #is_/same_as :: [Volta.private](/_private/Earth/Continent/Africa/Africa~West/Ghana/Regions~Ghana/Volta.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Ghana/Regions~Ghana/Volta.private|Volta.private]] 
 
-### #is_/same_as :: [Volta.personal](/_personal/Earth/Continent/Africa/Africa~West/Ghana/Regions~Ghana/Volta.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Ghana/Regions~Ghana/Volta.personal|Volta.personal]] 
 
-### #is_/same_as :: [Volta.secret](/_secret/Earth/Continent/Africa/Africa~West/Ghana/Regions~Ghana/Volta.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Ghana/Regions~Ghana/Volta.secret|Volta.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Greater_Accra/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Greater_Accra](/_Standards/Earth/Continent/Africa/Africa~West/Ghana/Regions~Ghana/Greater_Accra.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Ghana/Regions~Ghana/Greater_Accra|Greater_Accra]] 
 
-### #is_/same_as :: [Greater_Accra.public](/_public/Earth/Continent/Africa/Africa~West/Ghana/Regions~Ghana/Greater_Accra.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Ghana/Regions~Ghana/Greater_Accra.public|Greater_Accra.public]] 
 
-### #is_/same_as :: [Greater_Accra.internal](/_internal/Earth/Continent/Africa/Africa~West/Ghana/Regions~Ghana/Greater_Accra.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Ghana/Regions~Ghana/Greater_Accra.internal|Greater_Accra.internal]] 
 
-### #is_/same_as :: [Greater_Accra.protect](/_protect/Earth/Continent/Africa/Africa~West/Ghana/Regions~Ghana/Greater_Accra.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Ghana/Regions~Ghana/Greater_Accra.protect|Greater_Accra.protect]] 
 
-### #is_/same_as :: [Greater_Accra.private](/_private/Earth/Continent/Africa/Africa~West/Ghana/Regions~Ghana/Greater_Accra.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Ghana/Regions~Ghana/Greater_Accra.private|Greater_Accra.private]] 
 
-### #is_/same_as :: [Greater_Accra.personal](/_personal/Earth/Continent/Africa/Africa~West/Ghana/Regions~Ghana/Greater_Accra.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Ghana/Regions~Ghana/Greater_Accra.personal|Greater_Accra.personal]] 
 
-### #is_/same_as :: [Greater_Accra.secret](/_secret/Earth/Continent/Africa/Africa~West/Ghana/Regions~Ghana/Greater_Accra.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Ghana/Regions~Ghana/Greater_Accra.secret|Greater_Accra.secret]] 
 

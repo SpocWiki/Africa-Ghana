@@ -18,3 +18,20 @@ has_id_wikidata: Q524656
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20Ghana) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Ghana/History_of_Ghana|History_of_Ghana]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Ghana/History_of_Ghana.public|History_of_Ghana.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Ghana/History_of_Ghana.internal|History_of_Ghana.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Ghana/History_of_Ghana.protect|History_of_Ghana.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Ghana/History_of_Ghana.private|History_of_Ghana.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Ghana/History_of_Ghana.personal|History_of_Ghana.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Ghana/History_of_Ghana.secret|History_of_Ghana.secret]] 
+

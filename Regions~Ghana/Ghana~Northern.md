@@ -40,17 +40,17 @@ markerFolder: ./Ghana~Northern/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ghana~Northern](/_Standards/Earth/Continent/Africa/Africa~West/Ghana/Regions~Ghana/Ghana~Northern.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Ghana/Regions~Ghana/Ghana~Northern|Ghana~Northern]] 
 
-### #is_/same_as :: [Ghana~Northern.public](/_public/Earth/Continent/Africa/Africa~West/Ghana/Regions~Ghana/Ghana~Northern.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Ghana/Regions~Ghana/Ghana~Northern.public|Ghana~Northern.public]] 
 
-### #is_/same_as :: [Ghana~Northern.internal](/_internal/Earth/Continent/Africa/Africa~West/Ghana/Regions~Ghana/Ghana~Northern.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Ghana/Regions~Ghana/Ghana~Northern.internal|Ghana~Northern.internal]] 
 
-### #is_/same_as :: [Ghana~Northern.protect](/_protect/Earth/Continent/Africa/Africa~West/Ghana/Regions~Ghana/Ghana~Northern.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Ghana/Regions~Ghana/Ghana~Northern.protect|Ghana~Northern.protect]] 
 
-### #is_/same_as :: [Ghana~Northern.private](/_private/Earth/Continent/Africa/Africa~West/Ghana/Regions~Ghana/Ghana~Northern.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Ghana/Regions~Ghana/Ghana~Northern.private|Ghana~Northern.private]] 
 
-### #is_/same_as :: [Ghana~Northern.personal](/_personal/Earth/Continent/Africa/Africa~West/Ghana/Regions~Ghana/Ghana~Northern.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Ghana/Regions~Ghana/Ghana~Northern.personal|Ghana~Northern.personal]] 
 
-### #is_/same_as :: [Ghana~Northern.secret](/_secret/Earth/Continent/Africa/Africa~West/Ghana/Regions~Ghana/Ghana~Northern.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Ghana/Regions~Ghana/Ghana~Northern.secret|Ghana~Northern.secret]] 
 

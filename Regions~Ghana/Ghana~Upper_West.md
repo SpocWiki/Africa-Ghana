@@ -40,17 +40,17 @@ markerFolder: ./Ghana~Upper_West/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ghana~Upper_West](/_Standards/Earth/Continent/Africa/Africa~West/Ghana/Regions~Ghana/Ghana~Upper_West.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Ghana/Regions~Ghana/Ghana~Upper_West|Ghana~Upper_West]] 
 
-### #is_/same_as :: [Ghana~Upper_West.public](/_public/Earth/Continent/Africa/Africa~West/Ghana/Regions~Ghana/Ghana~Upper_West.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Ghana/Regions~Ghana/Ghana~Upper_West.public|Ghana~Upper_West.public]] 
 
-### #is_/same_as :: [Ghana~Upper_West.internal](/_internal/Earth/Continent/Africa/Africa~West/Ghana/Regions~Ghana/Ghana~Upper_West.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Ghana/Regions~Ghana/Ghana~Upper_West.internal|Ghana~Upper_West.internal]] 
 
-### #is_/same_as :: [Ghana~Upper_West.protect](/_protect/Earth/Continent/Africa/Africa~West/Ghana/Regions~Ghana/Ghana~Upper_West.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Ghana/Regions~Ghana/Ghana~Upper_West.protect|Ghana~Upper_West.protect]] 
 
-### #is_/same_as :: [Ghana~Upper_West.private](/_private/Earth/Continent/Africa/Africa~West/Ghana/Regions~Ghana/Ghana~Upper_West.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Ghana/Regions~Ghana/Ghana~Upper_West.private|Ghana~Upper_West.private]] 
 
-### #is_/same_as :: [Ghana~Upper_West.personal](/_personal/Earth/Continent/Africa/Africa~West/Ghana/Regions~Ghana/Ghana~Upper_West.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Ghana/Regions~Ghana/Ghana~Upper_West.personal|Ghana~Upper_West.personal]] 
 
-### #is_/same_as :: [Ghana~Upper_West.secret](/_secret/Earth/Continent/Africa/Africa~West/Ghana/Regions~Ghana/Ghana~Upper_West.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Ghana/Regions~Ghana/Ghana~Upper_West.secret|Ghana~Upper_West.secret]] 
 
