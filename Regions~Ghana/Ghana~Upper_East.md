@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Ghana~Upper_East/
 markerFolder: ./Ghana~Upper_East/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

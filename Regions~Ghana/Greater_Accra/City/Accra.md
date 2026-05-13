@@ -34,7 +34,7 @@ coordinates: [[Accra]]
 markerFile: [[Accra]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

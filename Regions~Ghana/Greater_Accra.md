@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Greater_Accra/
 markerFolder: ./Greater_Accra/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Brong_Ahafo/
 markerFolder: ./Brong_Ahafo/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

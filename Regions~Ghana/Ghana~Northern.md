@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Ghana~Northern/
 markerFolder: ./Ghana~Northern/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
